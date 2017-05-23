@@ -1,0 +1,25 @@
+{
+  "name": "com-pirata-contactpicker",
+  "version": "0.0.1",
+  "description": "Cordova PiraTa ContactPicker Plugin",
+  "cordova": {
+    "id": "com-pirata-contactpicker",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PiraTa-z/cordova-pirata-contact-picker"
+  },
+  "keywords": [
+    "cordova",
+    "contact",
+    "contactpicker",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT"
+}
